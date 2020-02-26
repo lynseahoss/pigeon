@@ -9,5 +9,5 @@ Goals:
 2. Create actual levels and themes for each level. 
 3. Animating more assets
 4. Create subgames/ challenges for users
-5. Publish to App Store <3
+
 
